@@ -585,11 +585,13 @@ color: #ffffff94;
   }
 
   .Techweve-home-section-continer-text h2 {
-    font-size: 2rem;
+    font-size: 3rem;
+    padding-top: -10px;
   }
 
   .Techweve-home-section-continer-text p {
-    font-size: 0.9rem;
+    font-size: 1rem;
+    flex-wrap: wrap;
   }
 
   .Techweve-home-section-continer-button {
